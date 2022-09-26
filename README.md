@@ -13,7 +13,7 @@ A78801C00A7890EC04
 x 1 let x -14 div
 ```
 
-##Cerinta 2( consultați _Forma poloneza postfixata_)
+## Cerinta 2( consultați _Forma poloneza postfixata_)
 Fie dat ca input o instructiune in limbajul de asamblare al procesorului aritmetic considerat, se
 cere sa se afiseze la standard output evaluarea instructiunii. Pentru aceasta cerinta, in instructiune
 nu exista variabile, ea fiind formata doar din numere intregi si operatii.
@@ -41,7 +41,7 @@ adauga 5;
 - am terminat de parcurs sirul, iar rezultatul obtinut este, acum, situat in varful stivei. Rezul-
 tatul acestui calcul este 5.
 
-##Cerinta 3( consultați _Forma poloneza postfixata_)
+## Cerinta 3( consultați _Forma poloneza postfixata_)
 Fie dat ca input o instructiune in limbajul de asamblare al procesorului aritmetic considerat. Se
 cere sa se afiseze la standard output evaluarea instructiunii. Pentru aceasta cerinta, spre deosebire
 de cerinta 2, se folosesc variabile introduse prin let.
@@ -68,7 +68,7 @@ _Atat la a doua, cât și la a treia, se garantează că tipul este unsigned_
 
 
 
-##Formatul instructiunilor
+## Formatul instructiunilor
 Vom construi codul masina pentru acest procesor. Pentru aceasta, este important de precizat ca
 vom lucra in stilul unui procesor pe 8 biti (putem lucra cu numere pana la cel mult 255). 
 
@@ -107,7 +107,7 @@ Pentru claritate, vom prezenta identificatorii in urmatorul tabel:
 - 01 variabila
 - 10 operatie
 
-##Forma poloneza postfixata
+## Forma poloneza postfixata
 In primul rand, trebuie sa stabilim ce vrem sa calculam. Expresiile complexe ne duc cu gandul la
 scrieri de forma:
 
